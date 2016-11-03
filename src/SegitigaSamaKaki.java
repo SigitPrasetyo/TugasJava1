@@ -8,6 +8,9 @@ public class SegitigaSamaKaki {
        panjang= input.nextInt();
 
         for (int x = 0; x <= panjang; x++) {
+            for (int y = 1; y <= panjang - x; y++) {
+                System.out.print(" ");
+            }
             
             System.out.println(" ");
         } 
