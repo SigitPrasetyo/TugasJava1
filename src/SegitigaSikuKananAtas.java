@@ -9,3 +9,9 @@ class SegitigaSikuKananAtas {
        panjang= input.nextInt();
 
         System.out.println("**********************************");
+         for (i=0;i<=panjang;i++){
+            for(j=panjang;j>=i;j--){
+                System.out.print(" ");
+            }
+            for(int k=0;k<=i;k++){
+                System.out.print(k);
