@@ -9,3 +9,14 @@ class SegitigaSikuTerbalikKiri {
         panjang = input.nextInt();
 
 //        System.out.print("=");
+// TODO code application logic here
+
+         for (i=0;i<=panjang;i++){
+            for(k=panjang;k>=i;k--){
+     
+                System.out.print(k);
+            }
+            System.out.println();
+        }
+    }
+}
