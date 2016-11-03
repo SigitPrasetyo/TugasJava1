@@ -7,7 +7,10 @@ public class SegitigaSamaKaki {
         System.out.printf("Jumlah Karakter/Tinggi Segitiga:");
        panjang= input.nextInt();
 
-//        
+        for (int x = 0; x <= panjang; x++) {
+            
+            System.out.println(" ");
+        } 
     }
 }
 
