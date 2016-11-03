@@ -11,7 +11,9 @@ public class SegitigaSamaKaki {
             for (int y = 1; y <= panjang - x; y++) {
                 System.out.print(" ");
             }
-            
+            for (int z = 1; z < 2 * x; z++) {
+                System.out.print(z);
+            }
             System.out.println(" ");
         } 
     }
