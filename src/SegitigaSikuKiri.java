@@ -9,5 +9,12 @@ class SegitigaSikuKiri {
        panjang= input.nextInt();
 
         System.out.print("**********************************");
+        // TODO code application logic here
+
+        for (a = 0; a <=panjang; a++) {
+           for (b = 0 ; a > b; b++) {
+                System.out.print(b);
+            }
+           System.out.print("\n");
         
     
