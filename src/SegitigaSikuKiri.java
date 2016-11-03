@@ -16,5 +16,10 @@ class SegitigaSikuKiri {
                 System.out.print(b);
             }
            System.out.print("\n");
-        
+        }
+            System.out.println();
+    }
+}
+       
+           
     
