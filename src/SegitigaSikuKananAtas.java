@@ -15,3 +15,9 @@ class SegitigaSikuKananAtas {
             }
             for(int k=0;k<=i;k++){
                 System.out.print(k);
+                 }
+            System.out.println();
+        }
+
+    }
+}
